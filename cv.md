@@ -35,4 +35,4 @@ Programming Languages
 Languages
 ----------------------------------------
 
-* English (A2)
+* English (B1)
